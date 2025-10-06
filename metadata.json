@@ -1,0 +1,5 @@
+{
+  "name": "Cohert Learning Dashboard",
+  "description": "A dashboard-based learning and assignment portal for students, teachers, and administrators. It provides role-based access to courses, assignments, analytics, and user management features.",
+  "requestFramePermissions": []
+}
